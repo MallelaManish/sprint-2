@@ -8,10 +8,10 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.cg</groupId>
-	<artifactId>backgroundverification</artifactId>
+	<groupId>com.lvg</groupId>
+	<artifactId>BackgroundVerificationSystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>backgroundverificationproject</name>
+	<name>BackgroundVerificationSystem</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
